@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Replace Original Strings\n"
+"POT-Creation-Date: 2017-06-27 01:38+0300\n"
+"PO-Revision-Date: 2017-06-27 01:40+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: main.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: main.php:38
+msgctxt "Post Type General Name"
+msgid "Replace Strings"
+msgstr "استبدال عبارات ووردبريس"
+
+#: main.php:39
+msgctxt "Post Type Singular Name"
+msgid "Replace String"
+msgstr "استبدال عبارة"
+
+#. Plugin Name of the plugin/theme
+#: main.php:40
+msgid "Replace Original Strings"
+msgstr "استبدال عبارات ووردبريس"
+
+#: main.php:41
+msgid "Parent String"
+msgstr "العبارة الأساسية"
+
+#: main.php:42
+msgid "All Strings"
+msgstr "كل العبارات"
+
+#: main.php:43
+msgid "View String"
+msgstr "عرض العبارة"
+
+#: main.php:44
+msgid "Add New String"
+msgstr "أضف عبارة جديدة"
+
+#: main.php:45
+msgid "Add New"
+msgstr "أضف جديد"
+
+#: main.php:46
+msgid "Edit String"
+msgstr "تحرير العبارة"
+
+#: main.php:47
+msgid "Update String"
+msgstr "تحديث العبارة"
+
+#: main.php:48
+msgid "Search String"
+msgstr "بحث عن عبارة"
+
+#: main.php:49
+msgid "Not Found"
+msgstr "لم يتمّ إيجاد عبارات حتى الآن."
+
+#: main.php:50
+msgid "Not found in Trash"
+msgstr "لن يانّ إيجاد أيّ عبارات في سلّة المهملات"
+
+#: main.php:97 metabox.php:16
+msgid "Original String"
+msgstr "العبارة الأصلية"
+
+#: main.php:98
+msgid "Domain"
+msgstr "المجال"
+
+#: main.php:99 metabox.php:26
+msgid "New String"
+msgstr "العبارة الجديدة"
+
+#: main.php:100
+msgid "Match String"
+msgstr "تطابق العبارة"
+
+#: main.php:116 main.php:153
+msgid "Not inserted"
+msgstr "لم يتمّ إدخالها"
+
+#: main.php:125
+msgid "Edit this item"
+msgstr "تحرير هذه العبارة"
+
+#: main.php:125
+msgid "Edit"
+msgstr "تحرير"
+
+#: main.php:129
+msgid "Restore this item from the Trash"
+msgstr "استعادة هذه العبارة من سلّة المهملات"
+
+#: main.php:129
+msgid "Restore"
+msgstr "استعادة"
+
+#: main.php:131
+msgid "Move this item to the Trash"
+msgstr "نقل لسلة المهملات"
+
+#: main.php:131
+msgid "Trash"
+msgstr "سلّة المهملات"
+
+#: main.php:133
+msgid "Delete this item permanently"
+msgstr "إزالة بشكل دائم"
+
+#: main.php:133
+msgid "Delete Permanently"
+msgstr "إزالة بشكل دائم"
+
+#: main.php:145
+msgid "Undefined"
+msgstr "غير مُحَدد"
+
+#: main.php:159 metabox.php:33
+msgid "Yes"
+msgstr "نعم"
+
+#: main.php:161 metabox.php:34
+msgid "No"
+msgstr "لا"
+
+#: metabox.php:4
+msgid "Strings Details"
+msgstr "تفاصيل العبارة المطلوب استبدالها"
+
+#: metabox.php:20
+msgid "Text-Domain for original string"
+msgstr "المجال النصي للعبارة الأصلية"
+
+#: metabox.php:22
+msgid ""
+"You can put the domain name for the original string to replace it for example "
+"woocommerce, when you keep this field empty will be replacing all strings in "
+"WP with the new string."
+msgstr ""
+"يمكنك وضع اسم المجال للعبارة الأصلية لإستبدال هذه العبارة فقط ضمن المجال الذي "
+"وضعته على سبيل المثال: woocommerce، في حال تركت هذا الحقل فارغًا فإنّه سيتمّ "
+"استبدال العبارة الأصلية بالعبارة الجديدة في جميع الأماكن بالموقع."
+
+#: metabox.php:30
+msgid "Match String?"
+msgstr "تطابق العبارة؟"
+
+#: metabox.php:36
+msgid ""
+"When you select \"Yes\" this means replace same this string/word only, or "
+"when you select \"No\" will be replacing that string/word at all places of "
+"the strings available whether first, last, or and in any other place in the "
+"strings."
+msgstr ""
+"في حال اخترت \"نعم\" فإنّ عملية الاستبدال ستكون محصورة فقط على نفس الكلمة، وفي "
+"حالة اخترت \"لا\" هذا يعني أنّ العبارة الأصلية سيتمّ استبدالها بالعبارة الجديدة "
+"سواءً في بداية العبارات، أو نهايتها، أو أيّ مكان آخر  بها نفس العبارة الأصلية."
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+#| msgid "https://wordpress.org/plugins/replace-original-translation-strings/"
+msgid "https://mokfie.com/replace-original-strings/"
+msgstr "https://wordpress.org/plugins/replace-original-translation-strings/"
+
+#. Description of the plugin/theme
+#, fuzzy
+#| msgid ""
+#| "This plugin to help you to replacing original strings in WP with new "
+#| "strings you needed."
+msgid ""
+"This plugin to help you to replacing original strings in WP with new strings "
+"you needed without change .po or .mo files."
+msgstr ""
+"هذه الإضافة تساعدك على استبدال العبارات الأصلية في ووردبريس إلى العبارات التي "
+"تحتاجها دون الحاجة إلى تعديلها في الملفات الأصلية."
+
+#. Author of the plugin/theme
+msgid "Mohammad Okfie"
+msgstr "محمد عكفي"
+
+#. Author URI of the plugin/theme
+msgid "https://mokfie.com"
+msgstr "https://mokfie.com"
+
+#~ msgid "Preview &#8220;%s&#8221;"
+#~ msgstr "Preview &#8220;%s&#8221;"
+
+#~ msgid "Preview"
+#~ msgstr "معاينة"
+
+#~ msgid "Unknown"
+#~ msgstr "غير معروف"
+
+#~ msgid "Edit this item inline"
+#~ msgstr "تحرير هذه العبارة سريعًا"
+
+#~ msgid "Quick&nbsp;Edit"
+#~ msgstr "تحرير سريع"
+
+#~ msgid "View &#8220;%s&#8221;"
+#~ msgstr "عرض"
+
+#~ msgid "View"
+#~ msgstr "عرض"
+
+#, fuzzy
+#~ msgid "Documentation"
+#~ msgstr "التوثيق"
+
+#, fuzzy
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+#, fuzzy
+#~ msgid "Remove"
+#~ msgstr "إزالة"
+
+#, fuzzy
+#~ msgctxt "file upload"
+#~ msgid "Upload Files"
+#~ msgstr "رفع الملفات"
+
+#, fuzzy
+#~ msgctxt "file upload"
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+#, fuzzy
+#~ msgctxt "file upload"
+#~ msgid "Edit"
+#~ msgstr "تحرير"
+
+#, fuzzy
+#~ msgctxt "media"
+#~ msgid " file"
+#~ msgstr "لم يتم تحديد أي ملف"
+
+#, fuzzy
+#~ msgctxt "media"
+#~ msgid "Remove"
+#~ msgstr "إزالة"
+
+#, fuzzy
+#~ msgctxt "media"
+#~ msgid "Edit"
+#~ msgstr "تحرير"
+
+#, fuzzy
+#~ msgctxt "media"
+#~ msgid "No Title"
+#~ msgstr "العنوان:"
+
+#, fuzzy
+#~ msgid "All"
+#~ msgstr "الكل "
+
+#, fuzzy
+#~ msgctxt "image upload"
+#~ msgid "Upload Images"
+#~ msgstr "رفع صور متعددة"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Replace Strigns"
+#~ msgstr "استبدال العبارات"
+
+#~ msgid "Replace Original Strigns"
+#~ msgstr "استبدال عبارات ووردبريس"

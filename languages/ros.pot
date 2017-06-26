@@ -1,0 +1,185 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Replace Original Strings\n"
+"POT-Creation-Date: 2017-06-27 01:40+0300\n"
+"PO-Revision-Date: 2017-06-26 05:34+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: main.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: main.php:38
+msgctxt "Post Type General Name"
+msgid "Replace Strings"
+msgstr ""
+
+#: main.php:39
+msgctxt "Post Type Singular Name"
+msgid "Replace String"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: main.php:40
+msgid "Replace Original Strings"
+msgstr ""
+
+#: main.php:41
+msgid "Parent String"
+msgstr ""
+
+#: main.php:42
+msgid "All Strings"
+msgstr ""
+
+#: main.php:43
+msgid "View String"
+msgstr ""
+
+#: main.php:44
+msgid "Add New String"
+msgstr ""
+
+#: main.php:45
+msgid "Add New"
+msgstr ""
+
+#: main.php:46
+msgid "Edit String"
+msgstr ""
+
+#: main.php:47
+msgid "Update String"
+msgstr ""
+
+#: main.php:48
+msgid "Search String"
+msgstr ""
+
+#: main.php:49
+msgid "Not Found"
+msgstr ""
+
+#: main.php:50
+msgid "Not found in Trash"
+msgstr ""
+
+#: main.php:97 metabox.php:16
+msgid "Original String"
+msgstr ""
+
+#: main.php:98
+msgid "Domain"
+msgstr ""
+
+#: main.php:99 metabox.php:26
+msgid "New String"
+msgstr ""
+
+#: main.php:100
+msgid "Match String"
+msgstr ""
+
+#: main.php:116 main.php:153
+msgid "Not inserted"
+msgstr ""
+
+#: main.php:125
+msgid "Edit this item"
+msgstr ""
+
+#: main.php:125
+msgid "Edit"
+msgstr ""
+
+#: main.php:129
+msgid "Restore this item from the Trash"
+msgstr ""
+
+#: main.php:129
+msgid "Restore"
+msgstr ""
+
+#: main.php:131
+msgid "Move this item to the Trash"
+msgstr ""
+
+#: main.php:131
+msgid "Trash"
+msgstr ""
+
+#: main.php:133
+msgid "Delete this item permanently"
+msgstr ""
+
+#: main.php:133
+msgid "Delete Permanently"
+msgstr ""
+
+#: main.php:145
+msgid "Undefined"
+msgstr ""
+
+#: main.php:159 metabox.php:33
+msgid "Yes"
+msgstr ""
+
+#: main.php:161 metabox.php:34
+msgid "No"
+msgstr ""
+
+#: metabox.php:4
+msgid "Strings Details"
+msgstr ""
+
+#: metabox.php:20
+msgid "Text-Domain for original string"
+msgstr ""
+
+#: metabox.php:22
+msgid ""
+"You can put the domain name for the original string to replace it for "
+"example woocommerce, when you keep this field empty will be replacing all "
+"strings in WP with the new string."
+msgstr ""
+
+#: metabox.php:30
+msgid "Match String?"
+msgstr ""
+
+#: metabox.php:36
+msgid ""
+"When you select \"Yes\" this means replace same this string/word only, or "
+"when you select \"No\" will be replacing that string/word at all places of "
+"the strings available whether first, last, or and in any other place in the "
+"strings."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://mokfie.com/replace-original-strings/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin to help you to replacing original strings in WP with new strings "
+"you needed without change .po or .mo files."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mohammad Okfie"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://mokfie.com"
+msgstr ""
