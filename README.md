@@ -1,3 +1,5 @@
+<a href="https://github.com/okfie984/replace-original-strings-in-wordpress/blob/master/README-AR.md">وصف الإضافة بالعربي</a>
+
 # Description About "Replace Original Strings in WordPress"
 This is a simple plugin to help you to replace all strings or part of the strings as you like without change .po or .mo files.
 
